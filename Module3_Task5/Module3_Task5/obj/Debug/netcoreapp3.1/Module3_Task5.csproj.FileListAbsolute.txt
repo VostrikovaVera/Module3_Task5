@@ -1,0 +1,13 @@
+C:\Users\Vira\learning\C# .NET\Module3_Task5\Module3_Task5\Module3_Task5\bin\Debug\netcoreapp3.1\Module3_Task5.exe
+C:\Users\Vira\learning\C# .NET\Module3_Task5\Module3_Task5\Module3_Task5\bin\Debug\netcoreapp3.1\File.txt
+C:\Users\Vira\learning\C# .NET\Module3_Task5\Module3_Task5\Module3_Task5\bin\Debug\netcoreapp3.1\Module3_Task5.deps.json
+C:\Users\Vira\learning\C# .NET\Module3_Task5\Module3_Task5\Module3_Task5\bin\Debug\netcoreapp3.1\Module3_Task5.runtimeconfig.json
+C:\Users\Vira\learning\C# .NET\Module3_Task5\Module3_Task5\Module3_Task5\bin\Debug\netcoreapp3.1\Module3_Task5.runtimeconfig.dev.json
+C:\Users\Vira\learning\C# .NET\Module3_Task5\Module3_Task5\Module3_Task5\bin\Debug\netcoreapp3.1\Module3_Task5.dll
+C:\Users\Vira\learning\C# .NET\Module3_Task5\Module3_Task5\Module3_Task5\bin\Debug\netcoreapp3.1\Module3_Task5.pdb
+C:\Users\Vira\learning\C# .NET\Module3_Task5\Module3_Task5\Module3_Task5\obj\Debug\netcoreapp3.1\Module3_Task5.AssemblyInfoInputs.cache
+C:\Users\Vira\learning\C# .NET\Module3_Task5\Module3_Task5\Module3_Task5\obj\Debug\netcoreapp3.1\Module3_Task5.AssemblyInfo.cs
+C:\Users\Vira\learning\C# .NET\Module3_Task5\Module3_Task5\Module3_Task5\obj\Debug\netcoreapp3.1\Module3_Task5.csproj.CoreCompileInputs.cache
+C:\Users\Vira\learning\C# .NET\Module3_Task5\Module3_Task5\Module3_Task5\obj\Debug\netcoreapp3.1\Module3_Task5.dll
+C:\Users\Vira\learning\C# .NET\Module3_Task5\Module3_Task5\Module3_Task5\obj\Debug\netcoreapp3.1\Module3_Task5.pdb
+C:\Users\Vira\learning\C# .NET\Module3_Task5\Module3_Task5\Module3_Task5\obj\Debug\netcoreapp3.1\Module3_Task5.genruntimeconfig.cache
